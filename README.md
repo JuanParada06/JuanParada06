@@ -1,4 +1,4 @@
-## <h1>Hi i am Juan Parada👋<h1>
+## <h1>Hi I'm Juan Parada👋<h1>
 
 <h2> I am a Computer Engineering student in my final semester<h2>
 <h3>
